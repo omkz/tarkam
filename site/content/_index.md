@@ -1,20 +1,20 @@
 ---
-title: "Tarkam Djaya Apostille with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Tarkam Djaya Apostille"
+subtitle: Jasa Penerjemah Tersumpah & Legalisir Dokumen
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Tarkam?
+    text: "Tim kami terdiri dari para staff yang memiliki pengetahuan mendalam dalam bidang legalisasi dokumen dan proses apostille. Pengalaman kami memastikan bahwa dokumen Anda akan diurus dengan tepat dan efisien."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Layanan jasa apostille/legalisasi dokumen dan penerjemah tersumpah menjadi sangat penting dalam berbagai konteks, terutama ketika berurusan dengan transaksi internasional, keperluan migrasi, atau persyaratan hukum tertentu. Apostille Pro menyediakan layanan yang komprehensif untuk membantu klien dalam proses legalisasi dokumen dan penerjemah tersumpah, menjadikan proses ini lebih mudah dan efisien. Berikut adalah poin-poin utama dari layanan kami."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Kami menawarkan layanan yang dirancang untuk memberikan kemudahan bagi klien kami. Proses pengurusan dokumen menjadi lebih mudah dan cepat, menghemat waktu dan tenaga Anda."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Kami memastikan bahwa dokumen Anda dikelola sesuai dengan standar internasional, sehingga keabsahannya diakui secara resmi di tingkat global."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Kami percaya bahwa layanan apostille harus cepat, akurat, dan terpercaya. Tim ahli kami yang profesional akan mengurus semua proses legalisasi dokumen Anda dengan integritas tinggi. Kami berkomitmen memberikan layanan yang mudah, nyaman, dan efisien sehingga Anda dapat fokus pada hal yang lebih penting. Kepuasan Anda adalah bukti kesuksesan kami.
 ---
 
